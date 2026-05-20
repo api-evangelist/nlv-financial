@@ -7,4 +7,7 @@ description: 'Profile for NLV Financial in the API Evangelist network. Fortune F
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.19'
+common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/national-life-group
 apis: []
