@@ -10,4 +10,6 @@ specificationVersion: '0.19'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/national-life-group
+  - url: https://blog.nationallife.com/feed/
+    type: Blog
 apis: []
